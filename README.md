@@ -1,0 +1,1 @@
+# One-Sided-Run-Sum-Xbar-Charts-for-Gamma-Processes
